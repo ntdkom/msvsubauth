@@ -1,0 +1,1 @@
+This is a modified version of MSV1_0 SubAuthentication Sample from Windows SDK.
